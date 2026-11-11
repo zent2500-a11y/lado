@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-`lado-dashboard`: a FastAPI web app (Python 3.12) managed with **uv**. Server-rendered HTML via Jinja2; pandas + openpyxl are available for reading/processing Excel data. Not yet a git repository.
+`lado-dashboard`: a FastAPI web app (Python 3.12) managed with **uv**. Server-rendered HTML via Jinja2; pandas + openpyxl are available for reading/processing Excel data. Git repo hosted at https://github.com/zent2500-a11y/lado (public), default branch `main`.
 
 ## Commands
 
